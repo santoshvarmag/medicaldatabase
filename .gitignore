@@ -7,3 +7,9 @@ medical/__pycache__/wsgi.cpython-39.pyc
 .idea/modules.xml
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/vcs.xml
+.vscode/settings.json
+database/__pycache__/__init__.cpython-39.pyc
+database/__pycache__/admin.cpython-39.pyc
+database/__pycache__/models.cpython-39.pyc
+database/migrations/__pycache__/0001_initial.cpython-39.pyc
+database/migrations/__pycache__/__init__.cpython-39.pyc
