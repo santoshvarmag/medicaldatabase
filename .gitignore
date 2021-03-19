@@ -13,3 +13,5 @@ database/__pycache__/admin.cpython-39.pyc
 database/__pycache__/models.cpython-39.pyc
 database/migrations/__pycache__/0001_initial.cpython-39.pyc
 database/migrations/__pycache__/__init__.cpython-39.pyc
+database/__pycache__/serializers.cpython-39.pyc
+database/__pycache__/views.cpython-39.pyc
